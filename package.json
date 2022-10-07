@@ -1,0 +1,13 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn tsc --watch"
+  },
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.8.4"
+  }
+}
